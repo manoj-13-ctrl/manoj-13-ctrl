@@ -39,11 +39,22 @@ Here are some of the technologies and tools I've worked with:
 You can check out my profiles on various competitive programming platforms:
 
 <div align="center">
-  <a href="https://leetcode.com/u/manojmahi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
+  <a href="https://github.com/manoj-13-ctrl">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=manoj-13-ctrl&theme=onedark&hide_title=true" alt="GitHub Streak" />
   </a>
+
+  <a href="https://leetcode.com/u/manojmahi/">
+    <img src="https://leetcode-stats.vercel.app/api?username=manojmahi&theme=dark" alt="LeetCode Stats" />
+  </a>
+
   <a href="https://www.hackerrank.com/profile/mahimanoj_ctrl" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+  <a href="https://www.codechef.com/users/your_codechef_username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="https://codeforces.com/profile/your_codeforces_username" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445281?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
 </div>
 
