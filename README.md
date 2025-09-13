@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate [Your Role, e.g., software developer] from [Your Location]</h3>
 
-<!--
-**manoj-13-ctrl/manoj-13-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[Your current project or goal]**
+- 🌱 I’m currently learning **[New technology, framework, or skill]**
+- 👯 I’m looking to collaborate on **[Type of project or a specific open-source project]**
+- 💬 Ask me about **[Your area of expertise, e.g., Python, web development, data science]**
+- 📫 How to reach me: **[Your Email]** or **[Your Social Media Link]**
+- 😄 Pronouns: **[Your Pronouns]**
+- ⚡ Fun fact: **[A fun fact about you]**
+
+---
+
+### My Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=onedark&hide=prs&include_all_commits=true" alt="Your GitHub Stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=your-username&theme=onedark" alt="GitHub Streak" />
+  </a>
+</div>
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mongodb,docker,git,linux,vscode" />
+</p>
+
+### Other Badges
+
+Here are some popular badges you can use. You can find more on sites like <a href="https://shields.io/">Shields.io</a> or <a href="https://dev.to/envoy_">Dev.to</a>.
+
+<div align="center">
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+---
+
+### Streaks and Permissions
+
+*Note: There are no official "Unstop" or "HackerRank" streak badges supported by a public API in the same way as GitHub. The badges shown below are illustrative and often require a custom solution or are not available. The best way to show your progress is to link to your profile.*
+
+* **GitHub Streak:** The GitHub Streak card above is powered by `github-readme-streak-stats` and automatically tracks your longest and current contribution streak.
+* **HackerRank/Unstop:** To showcase progress, you can link directly to your profiles or create a custom static badge. For example:
+
+```markdown
+<div align="center">
+  <a href="[https://www.hackerrank.com/your-username](https://www.hackerrank.com/your-username)" target="_blank">
+    <img src="[https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="HackerRank Profile" />
+  </a>
+  <a href="[https://unstop.com/user/your-username](https://unstop.com/user/your-username)" target="_blank">
+    <img src="[https://img.shields.io/badge/Unstop-FF69B4?style=for-the-badge&logo=unstop&logoColor=white](https://img.shields.io/badge/Unstop-FF69B4?style=for-the-badge&logo=unstop&logoColor=white)" alt="Unstop Profile" />
+  </a>
+</div>
