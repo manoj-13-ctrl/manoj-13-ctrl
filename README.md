@@ -59,9 +59,10 @@ Here are some popular badges you can use. You can find more on sites like <a hre
 
 ```markdown
 <div align="center">
-  <a href="[https://www.hackerrank.com/your-username](https://www.hackerrank.com/your-username)" target="_blank">
+  <a href="[https://www.hackerrank.com/profile/mahimanoj_ctrl](https://www.hackerrank.com/profile/mahimanoj_ctrl)" target="_blank">
     <img src="[https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="HackerRank Profile" />
   </a>
+
   <a href="[https://unstop.com/user/your-username](https://unstop.com/user/your-username)" target="_blank">
     <img src="[https://img.shields.io/badge/Unstop-FF69B4?style=for-the-badge&logo=unstop&logoColor=white](https://img.shields.io/badge/Unstop-FF69B4?style=for-the-badge&logo=unstop&logoColor=white)" alt="Unstop Profile" />
   </a>
